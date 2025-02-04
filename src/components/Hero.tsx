@@ -12,7 +12,7 @@ const Hero = () => {
               <span className="block text-primary">(ATO)</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-gray-600">
-              Business Development Expert | Consultant | Strategic Thinker
+              Business Development Expert | Web Developer | Strategic Thinker
             </h2>
             <p className="text-gray-600 max-w-xl">
               A seasoned professional with nearly a decade of experience in transforming businesses 

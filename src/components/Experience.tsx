@@ -24,9 +24,8 @@ const Experience = () => {
           />
           <ExperienceCard 
             icon={<Target className="text-green-600" />}
-            title="Leadership Initiatives"
-            description="Spearheaded educational initiatives impacting over 2,000 students 
-                       and led major organizational transformations."
+            title="Website Development"
+            description="Designed High-converting, SEO-optimized portfolio website that elevate personal brands, enhance online visibiity, and turn visitors into clients"
           />
           <ExperienceCard 
             icon={<Lightbulb className="text-yellow-600" />}
